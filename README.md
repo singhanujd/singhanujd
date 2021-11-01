@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singhanujd
 - 👀 I’m interested in Front End Development 
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning Frontend Technologies like Angular and React.
 - 💞️ I’m looking to collaborate on React, Angular, HTML, CSS.
 - 📫 You can reach me on singhanujd@gmail.com
 
